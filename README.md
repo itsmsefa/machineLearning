@@ -1,0 +1,3 @@
+This repository chronicles my exploration into the charming global of Machine Learning (ML). It files my knowledge as I progress from a curious novice to, with any luck, a capable professional who can leverage data to construct impactful models and contribute to the advancement of AI.
+
+My adventure begins on the very basis – information how information can be used to learn and make predictions. From there, I'll delve into diverse algorithms, gear, and libraries, progressively running my manner up to complicated deep studying architectures. Throughout this procedure, I'll percentage my learnings, tasks, experiments, and screw ups (because let's accept it, they're part of the mastering curve!).
